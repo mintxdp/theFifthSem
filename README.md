@@ -1,2 +1,2 @@
 # Syllabus 
-![syll](./assets/syll)
+![syll](./assets/syll.png)
