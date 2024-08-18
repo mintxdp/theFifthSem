@@ -1,2 +1,2 @@
 # Syllabus 
-![](./assets/syll)
+![syll](./assets/syll)
