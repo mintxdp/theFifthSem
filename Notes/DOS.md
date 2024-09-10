@@ -1,3 +1,3 @@
-# Chapter 1 
+# Chapter1
+![[assets/OSchap1.pdf]]
 
-![[Pasted image 20240909222508.png]]
